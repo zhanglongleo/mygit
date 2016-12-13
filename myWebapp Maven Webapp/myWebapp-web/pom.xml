@@ -35,6 +35,7 @@
 			<version>${project.version}</version>
 		</dependency>
 	</dependencies>
+	<!-- 测试 -->
 	<build>
 		<finalName>myWebapp-web</finalName>
 	</build>
